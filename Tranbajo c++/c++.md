@@ -1,7 +1,7 @@
 # Trabajo por Parejas en MD
 ## C++
 
-![](/img/c++logo.png)
+
 
 - Recopilado en un Markdown
 
@@ -28,6 +28,8 @@
  ###### Fecha de entrega: Miércoles 20 de abril de 2022
 
 # Lenguaje C++
+
+![](/img/c++logo.png)
 
 ### 1- Historia
 La historia de C++ comienza con Denis Ritchie quien introdujo C en los laboratorios Bell de AT&T en 1972, implementándose en la DEC PDP-11. Denise Ritchie usó los conceptos de BCPL y B para desarrollar C y agregó la tipificación de datos y algunas otras características poderosas.
