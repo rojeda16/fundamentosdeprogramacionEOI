@@ -1,5 +1,5 @@
-#Trabajo por Parejas en MD
-##C++
+# Trabajo por Parejas en MD
+## C++
 
 ![](/img/c++logo.png)
 
