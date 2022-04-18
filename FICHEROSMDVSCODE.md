@@ -4,7 +4,7 @@
 
 [GUIA BREVE MARKDOWN ](http://fobos.inf.um.es/R/taller5j/30-markdown/guiabreve.pdf)
 
-![](img/00.png)
+![](img/imagen1.png)
 
 ## 2 - Explorar GitHub (CONSEGUIDO)
 
