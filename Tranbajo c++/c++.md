@@ -1,7 +1,7 @@
-#Trabajo por Parejas en MD
-##C++
+# Trabajo por Parejas en MD
+## C++
 
-![](/img/c++logo.png)
+
 
 - Recopilado en un Markdown
 
@@ -28,6 +28,8 @@
  ###### Fecha de entrega: Miércoles 20 de abril de 2022
 
 # Lenguaje C++
+
+![](/img/c++logo.png)
 
 ### 1- Historia
 La historia de C++ comienza con Denis Ritchie quien introdujo C en los laboratorios Bell de AT&T en 1972, implementándose en la DEC PDP-11. Denise Ritchie usó los conceptos de BCPL y B para desarrollar C y agregó la tipificación de datos y algunas otras características poderosas.
@@ -166,7 +168,7 @@ Los salarios de los desarrolladores principiantes y junior son bastante planos y
 Como ocurre con el salario de cualquier programador informático, un programador de C++ puede esperar estar bien pagado. Sin embargo, el hecho de que C++ sea un lenguaje tan utilizado, puede afectar al salario medio de C++De acuerdo con PayScale El salario medio de un desarrollador de C++ en Estados Unidos es de $71.677 al año.
 
 ### 6- Comunidad:
-El informe semestral State of the Developer Nation de SlashData 2021 se basa en una encuesta de más de 19.000 desarrolladores combinada con la estimación de los investigadores sobre el número global de desarrolladores de software activos.
+El **informe semestral State of the Developer Nation de SlashData 2021** se basa en una encuesta de más de 19.000 desarrolladores combinada con la estimación de los investigadores sobre el número global de desarrolladores de software activos.
 
 Según la encuesta C++ agrupa aproximadamente a  7,3 millones de desarrolladores especializados en este lenguaje lo que lo convierte en el cuarto lenguaje más usado junto con C, por detrás de javascript (typescript y coffeescript), python y java.
 
@@ -179,6 +181,8 @@ Por ello, código fuente escrito en C puede compilarse como C++. Esto fue una vi
 ### 8- Multiplataforma: Windows, Linux o IOs
 
 ![](/img/so.png)
+
+El código C++ multiplataforma es un código que puede ser compilado bajo diferentes sistemas operativos sin necesidad de ser modificado. Puedes compilar este código en cualquier sistema operativo siempre que tengas un compilador adecuado y bibliotecas Qt para ese sistema operativo.
 
 PLATAFORMA DE C++
 Windows MingW (GCC para Windows) o MSVC (compilador de microsoft con versión gratuita)
